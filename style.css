@@ -1,0 +1,9 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  border: lightblue solid;
+  border-bottom: black 3px solid;
+  display: block;
+}
